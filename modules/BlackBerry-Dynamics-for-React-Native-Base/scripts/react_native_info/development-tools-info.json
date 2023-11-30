@@ -1,0 +1,31 @@
+{
+  "framework": {
+    "name": "ReactNative",
+    "bbdSdkForReactNativeVersion": "8.0.0.178",
+    "react-native": "",
+    "react": "",
+    "system": {
+      "os": "",
+      "node": "",
+      "npm": "",
+      "yarn": "",
+      "watchman": "",
+      "androidStudio": "",
+      "xcode": ""
+    },
+    "iosSdk": {
+      "platforms": ""
+    },
+    "androidSdk": {
+      "apiLevels": "",
+      "buildTools": "",
+      "systemImages": ""
+    },
+    "modules": [
+      {
+        "name": "",
+        "version": ""
+      }
+    ]
+  }
+}
