@@ -5,7 +5,7 @@
   "dependencies": {
     "js-base64": "^2.5.1",
     "react": "16.8.6",
-    "react-native": "0.60.6",
+    "react-native": "0.69.12",
     "react-native-webview": "^5.12.1"
   },
   "devDependencies": {
