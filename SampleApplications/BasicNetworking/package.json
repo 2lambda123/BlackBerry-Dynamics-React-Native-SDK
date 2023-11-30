@@ -8,7 +8,7 @@
   "dependencies": {
     "js-base64": "^2.5.1",
     "react": "16.13.1",
-    "react-native": "0.63.2",
+    "react-native": "0.69.12",
     "react-native-document-picker": "^3.2.4",
     "url": "^0.11.0"
   },
